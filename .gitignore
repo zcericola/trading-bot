@@ -1,0 +1,5 @@
+env
+.env
+scratch.md
+tradable_stocks.json
+__pycache__
